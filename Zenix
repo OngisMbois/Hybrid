@@ -923,6 +923,8 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQur
 https://d1abp075u76pbq.cloudfront.net/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd|Referer=https://www.visionplus.id/
 
 #☯☯ || MYTV CHANNELS || ☯☯
+#EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2023/04/18/En6Hil.png" tvg-id="TVSUKAN" tvg-logo="https://pictr.com/images/2023/04/19/En1kNx.png",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b2596000_slENG.m3u8?id=4
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
