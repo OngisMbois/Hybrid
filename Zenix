@@ -121,11 +121,123 @@ https://zeestb.cdn77.icu/love4all.php?id=189665&extension=ts
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.ts
 http://filex.tv:8080/aftab123/004090/302264
 http://shareext@15.235.181.35/live.ts?channelId=129279&uid=14505&deviceMac=00:1A:79:A7:53:75&id=indosiar
+http://xtv.ooo:8080/live/83212539/43153928/350972.ts
+
+#########################################################################################
+###################################  LIVE EVENT  ########################################
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="LIVE EVENT",SOCCER CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="LIVE EVENT",Sportstars 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="LIVE EVENT",Sportstars 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTINF:-1 tvg-id="PeacockTV" group-title="LIVE EVENT"  tvg-logo=" ",PeacockTV Premier League
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Peacock 1
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Peacock 2
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png",USA Network 1
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png",USA Network 2
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://static.wikia.nocookie.net/youtube/images/2/22/NBC.jpg/revision/latest?cb=20230910112737",NBC Sport Peacock
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
+#EXTINF:-1 tvg-id="PeacockTV" group-title="LIVE EVENT"  tvg-logo=" ",Universo East
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
+#EXTINF:-1 tvg-id="PeacockTV" group-title="LIVE EVENT"  tvg-logo=" ",NBC 1
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+#EXTINF:-1 tvg-id="PeacockTV" group-title="LIVE EVENT"  tvg-logo=" ",NBC 4
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
 
 
 
+==================================DAZN SPORT================================================
 
+#EXTINF:-1 group-title="DAZN SPORT" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500", DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
+#EXTINF:-1 group-title="DAZN SPORT" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605032_image-header_pEs_1661946616000&quality=70&width=500", DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN SPORT" tvg-id="" tvg-logo="https://i.imgur.com/RHORZXz.png"", DAZN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN SPORT" tvg-id="dazn4_spain" tvg-logo="https://i.imgur.com/0vvP4SE.png", DAZN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN SPORT" tvg-id="dazn_laliga" tvg-logo="https://i.imgur.com/srx5bGb.png", DAZN LaLiga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN SPORT" tvg-id="laliga_hypermotion" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70", LaLiga TV Hypermotion
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN SPORT" tvg-id="laliga_hypermotion2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70", LaLiga TV Hypermotion 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#EXTINF:-1 group-title="DAZN SPORT" tvg-id="laliga_hypermotion3" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1tf4qe1um8p017gmjh0fniqns_image-header_pEs_1704473541000&quality=70", LaLiga TV Hypermotion 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+ 
 
 ###############################   LOCAL  ##################################
 ###########################################################################
@@ -726,8 +838,6 @@ https://anutv.xyz/known/discovery_turbo.m3u8
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://www.mncvision.id/userfiles/image/channel/discovery_channel.png",Investigation discovery
 https://anutv.xyz/known/investigation_discovery.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/079947b821323ccbffaab6acfb053eae.png" group-title="Knowledge",Dmax 
-https://anutv.xyz/known/DMAX.m3u8
 #EXTINF:0 type="stream" group-title="Knowledge" tvg-id="dmax" tvg-logo="https://i.ibb.co/5LsVLz9/ccdmax.png",Dmax
 https://varun-iptv.netlify.app/m3u/DMAX.m3u8
 https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
@@ -750,19 +860,16 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729d4068d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac43c0e/manifest.mpd
 
-#EXTINF:-1 group-title="Knowledge" group-logo="https://pictr.com/images/2023/04/18/EniO1q.png" tvg-id="DMAX" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png",DMAX
-http://31.42.187.37:25461/watchpad13158/1234/39
-
 #EXTINF:-1 group-title="Knowledge" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Disc.Turbo.uk"  tvg-logo="https://pictr.com/images/2024/01/06/EyrFw9.png", Discovery Turbo
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53881
 
 #EXTINF:-1 group-title="Knowledge" group-logo="https://pictr.com/images/2023/04/18/EnieyQ.png" tvg-id="Disc.History.uk"  tvg-logo="https://pictr.com/images/2024/01/06/EyrJOu.png", Discovery History
 http://wayforward.xyz/uugjnauw/zNtU7zdSk/53877
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_206.png" group-title="Knowledge",History
+#EXTINF:-1 group-title="Knowledge"  tvg-logo="https://images.indihometv.com/logo_history_ver3.png",HISTORY[INDEHOME]
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2ccaa7d9731c2e69fa5344c5a547b836:d23fb6a3c73eb7ab8ad19ca841db0fb5
-https://d1abp075u76pbq.cloudfront.net/live/eds/History/sa_dash_vmx/History.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/history/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_202.png" group-title="Knowledge",Outdoor
 #KODIPROP:inputstream.adaptive.license_type=clearkey
